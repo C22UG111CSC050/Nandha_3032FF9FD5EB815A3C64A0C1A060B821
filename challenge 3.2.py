@@ -11,10 +11,10 @@ def sort_students(student_list):
     return sorted_students
 
 # Example usage:
-student1 = Student("Pavan", "A101", 3.7)
-student2 = Student("Loki", "A102", 3.9)
-student3 = Student("Leo", "A103", 3.5)
-student4 = Student("Sanjay", "A104", 4.0)
+student1 = Student("murali", "A101", 3.7)
+student2 = Student("nandha", "A102", 3.9)
+student3 = Student("neymar", "A103", 3.5)
+student4 = Student("naveen", "A104", 4.0)
 
 students = [student1, student2, student3, student4]
 
